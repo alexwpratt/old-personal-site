@@ -326,7 +326,6 @@ quotes = [
 ];
 
 function load() {
-    console.log(quotes.length);
   let randomNumber = Math.floor((Math.random() * quotes.length) );
   document.getElementById("quote_author").innerHTML = quotes[randomNumber].author;
   document.getElementById("quote_body").innerHTML = quotes[randomNumber].body;
