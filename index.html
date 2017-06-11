@@ -8,54 +8,65 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-    body,
-    h1 {
-        font-family: "Raleway", sans-serif;
-    }
+  body,
+  h1 {
+    font-family: "Raleway", sans-serif;
+  }
 
-    body,
-    h1,
-    p,
-    i,
-    div,
-    footer {
-        color: grey;
-    }
+  body,
+  h1,
+  p,
+  i,
+  div,
+  footer {
+    color: grey;
+  }
 
-    body,
-    html {
-        height: 100%
-    }
+  body,
+  html {
+    height: 100%
+  }
 
-    .bgimg {
-        background-image: url('harbor.jpg');
-        min-height: 100%;
-        background-position: center;
-        background-size: cover;
-    }
+  .bgimg {
+    background-image: url('harbor.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+  }
 </style>
 
-<body>
-    <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-        <div class="w3-display-topleft w3-padding-large w3-xlarge">
-            AWP
-        </div>
-        <div class="w3-display-middle w3-center">
-            <h1 class="w3-jumbo w3-animate-top">Alex Wilcken Pratt</h1>
-            <hr class="w3-border-grey" style="margin:auto;width:40%">
-            <p class="w3-large w3-center">
-                <a href="https://www.linkedin.com/in/alexwilckenpratt" target="_blank"><i class="fa fa-linkedin fa-2x w3-hover-opacity"></i></a> 
-                <a href="https://github.com/awpratt" target="_blank"><i class="fa fa-github fa-2x w3-hover-opacity" aria-hidden="true"></i></a> 
-                <a href="https://bitbucket.com/awpratt" target="_blank"><i class="fa fa-bitbucket fa-2x w3-hover-opacity" aria-hidden="true"></i></a>
-                <a href="https://www.facebook.com/alex.w.pratt" target="_blank"><i class="fa fa-facebook-official fa-2x w3-hover-opacity"></i></a>  
-                <a href="https://www.instagram.com/alex.w.pratt/" target="_blank"><i class="fa fa-instagram fa-2x w3-hover-opacity"></i></a> 
-                <a href="https://twitter.com/awpratt" target="_blank"><i class="fa fa-twitter fa-2x w3-hover-opacity"></i></a> 
-            </p>
-        </div>
-        <div class="w3-display-bottomright w3-padding-large">
-            Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+<head>
+  <script type="text/javascript" src="quotes.js"></script>
+</head>
+
+<body onload="load()">
+  <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+    <div class="w3-display-topleft w3-padding-large w3-xlarge">
+      AWP
+    </div>
+    <div class="w3-display-middle w3-center">
+      <h1 class="w3-jumbo w3-animate-top">Alex Wilcken Pratt</h1>
+      <hr class="w3-border-grey" style="margin:auto;width:40%">
+      <p class="w3-large w3-center">
+        <a href="https://www.linkedin.com/in/alexwilckenpratt" target="_blank"><i class="fa fa-linkedin fa-2x w3-hover-opacity"></i></a>
+        <a href="https://github.com/awpratt" target="_blank"><i class="fa fa-github fa-2x w3-hover-opacity" aria-hidden="true"></i></a>
+        <a href="https://bitbucket.com/awpratt" target="_blank"><i class="fa fa-bitbucket fa-2x w3-hover-opacity" aria-hidden="true"></i></a>
+        <a href="https://www.facebook.com/alex.w.pratt" target="_blank"><i class="fa fa-facebook-official fa-2x w3-hover-opacity"></i></a>
+        <a href="https://www.instagram.com/alex.w.pratt/" target="_blank"><i class="fa fa-instagram fa-2x w3-hover-opacity"></i></a>
+        <a href="https://twitter.com/awpratt" target="_blank"><i class="fa fa-twitter fa-2x w3-hover-opacity"></i></a>
+      </p>
+      <div class="w3-panel w3-light-grey">
+          <p class="w3-large w3-serif">
+            <i id="quote_body"></i>
+          </p>
+          <p id="quote_author"></p>
         </div>
     </div>
+    <div class="w3-display-bottomright w3-padding-large">
+      Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+    </div>
+  </div>
 </body>
+
 
 </html>
