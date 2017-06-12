@@ -137,7 +137,7 @@ quotes = [
     },
     {
         author: "John Wooden",
-        body: "Be quick but don't hurry"
+        body: "Be quick, but don't hurry."
     },
     {
         author: "Oren Harari",
