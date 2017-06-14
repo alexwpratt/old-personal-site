@@ -173,11 +173,11 @@ quotes = [
     },
     {
         author: "Samuel Johnson",
-        body: "God himself, sir, does not propose to judge man until the end of his days"
+        body: "God himself, sir, does not propose to judge man until the end of his days."
     },
     {
         author: "Henry Ford",
-        body: "If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own"
+        body: "If there is any one secret of success, it lies in the ability to get the other person’s point of view and see things from that person’s angle as well as from your own."
     },
     {
         author: "Alfred Adler",
@@ -189,7 +189,7 @@ quotes = [
     },
     {
         author: "Unknown",
-        body: "A man convinced against his will, is of the same opinion still"
+        body: "A man convinced against his will, is of the same opinion still."
     },
     {
         author: "Buddha",
