@@ -322,6 +322,14 @@ quotes = [
     {
       author: "Nick Saban",
       body: "[T]hey have this illusion that they have all these choices.... but the fact of the matter is, is if you want to be good, you really don't have a lot of choices, because it takes what it takes. You have to do what you have to do to be successful. So you have to make choices and decisions to have the discipline and focus to the process of what you need to do to accomplish your goals."
+    },
+    {
+        author: "Lucius Annaeus Seneca",
+        body: "We are more often frightened than hurt; and we suffer more from imagination than from reality."
+    },
+    {
+        author: "Stephen R. Covey",
+        body: "Habit: The intersection of knowledge, skill, and desire."
     }
 ];
 
