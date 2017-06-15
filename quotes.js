@@ -330,6 +330,26 @@ quotes = [
     {
         author: "Stephen R. Covey",
         body: "Habit: The intersection of knowledge, skill, and desire."
+    },
+    {
+        author: "Tommy Lasorda",
+        body: "In baseball and in business, there are three types of people. Those who make it happen, those who watch it happen, and those who wonder what happened."
+    },
+    {
+        author: "Derek Jeter",
+        body: "There may be people that have more talent than you, but there's no excuse for anyone to work harder than you do."
+    },
+    {
+        author: "Wayne Gretzky",
+        body: "A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be."
+    },
+    {
+        author: "Mario Andretti",
+        body: "If you have everything under control, you're not moving fast enough."
+    },
+    {
+        author: "Muhammad Ali",
+        body: "It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe."
     }
 ];
 
