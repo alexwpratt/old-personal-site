@@ -350,6 +350,10 @@ quotes = [
     {
         author: "Muhammad Ali",
         body: "It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe."
+    },
+    {
+        author: "Will Smith",
+        body: "The best things in life are on the other side of terror, on the other side of your maximum fear, are all of the best things in life."
     }
 ];
 
