@@ -221,7 +221,7 @@ quotes = [
     },
     {
         author: "T. E. Lawrence",
-        body: "All men dream, but not equally. Those who dream by night in the dusty recesses of their minds, wake in thd day to find that it was vanity. But the dreamers of the day are dangerous men, for they may act on their dreams with open eyes, to make them possible."
+        body: "All men dream, but not equally. Those who dream by night in the dusty recesses of their minds, wake in the day to find that it was vanity. But the dreamers of the day are dangerous men, for they may act on their dreams with open eyes, to make them possible."
     },
     {
         author: "Liz Wiseman",
