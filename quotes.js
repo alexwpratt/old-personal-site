@@ -353,7 +353,7 @@ quotes = [
     },
     {
         author: "Will Smith",
-        body: "The best things in life are on the other side of terror, on the other side of your maximum fear, are all of the best things in life."
+        body: "The best things in life are on the other side of terror; on the other side of your maximum fear, are all of the best things in life."
     }
 ];
 
