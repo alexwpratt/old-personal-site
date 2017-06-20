@@ -354,6 +354,10 @@ quotes = [
     {
         author: "Will Smith",
         body: "The best things in life are on the other side of terror; on the other side of your maximum fear, are all of the best things in life."
+    },
+    {
+        author: "Richard Feynman",
+        body: "What I cannot create, I do not understand."
     }
 ];
 
