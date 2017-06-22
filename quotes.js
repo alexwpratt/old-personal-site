@@ -358,6 +358,10 @@ quotes = [
     {
         author: "Richard Feynman",
         body: "What I cannot create, I do not understand."
+    },
+    {
+        author: "David Allen",
+        body: "You won't see how to do it until you see yourself doing it."
     }
 ];
 
