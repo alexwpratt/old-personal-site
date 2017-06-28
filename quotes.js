@@ -225,7 +225,7 @@ quotes = [
     },
     {
         author: "Liz Wiseman",
-        body: "The best leaders don't have the answers. They have really good questions, adn they use their intelligence to bring out the genius in the people around them."
+        body: "The best leaders don't have the answers. They have really good questions, and they use their intelligence to bring out the genius in the people around them."
     },
     {
         author: "Richard Branson",
