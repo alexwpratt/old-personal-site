@@ -362,6 +362,10 @@ quotes = [
     {
         author: "David Allen",
         body: "You won't see how to do it until you see yourself doing it."
+    },
+    {
+        author: "Benjamin Franklin",
+        body: "Nothing brings more pain than too much pleasure, nothing more bondage than too much liberty."
     }
 ];
 
