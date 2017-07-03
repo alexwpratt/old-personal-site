@@ -365,7 +365,15 @@ quotes = [
     },
     {
         author: "Benjamin Franklin",
-        body: "Nothing brings more pain than too much pleasure, nothing more bondage than too much liberty."
+        body: "Nothing brings more pain than too much pleasure; nothing more bondage than too much liberty."
+    },
+    {
+        author: "Bill Belichick",
+        body: "Talent sets teh floor, character sets the ceiling."
+    },
+    {
+        author: "Bill Belichick",
+        body: "To live in the past is to die in the present."
     }
 ];
 
