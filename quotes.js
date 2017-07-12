@@ -276,7 +276,7 @@ quotes = [
         body: "You cannot play with the animal in you without becoming wholly animal, play with falsehood without forfeiting your right to truth, play with cruelty without losing your sensitivity of mind. He who wants to keep his garden tidy doesn’t reserve a plot for weeds."
     },
     {
-        author: "Stephen R. Covey",
+        author: "Stephen Covey",
         body: "Certainly there is a place for Win/Lose thinking in truly competitive and low-trust situations. But most of life is not a competition. We don’t have to live each day competing with our spouse, our children, our coworkers, our neighbors, and our friends. “Who’s winning in your marriage?” is a ridiculous question. If both people aren’t winning, both are losing."
     },
     {
@@ -305,7 +305,7 @@ quotes = [
     },
     {
         author: "Stephen Covey",
-        body: "You can quickly grasp the important difference between the two if you envision a group of producers cutting their way through the jungle with machetes. They’re the producers, the problem solvers. They’re cutting through the undergrowth, clearing it out. The managers are behind them, sharpening their machetes, writing policy and procedure manuals, holding muscle development programs, bringing in improved technologies and setting up working schedules and compensation programs for machete wielders. The leader is the one who climbs the tallest tree, surveys the entire situation, and yells, 'Wrong jungle!' But how do the busy, efficient producers and managers often respond? 'Shut up! We’re making progress.'"
+        body: "You can quickly grasp the important difference between the two [leaders and managers] if you envision a group of producers cutting their way through the jungle with machetes. They’re the producers, the problem solvers. They’re cutting through the undergrowth, clearing it out. The managers are behind them, sharpening their machetes, writing policy and procedure manuals, holding muscle development programs, bringing in improved technologies and setting up working schedules and compensation programs for machete wielders. The leader is the one who climbs the tallest tree, surveys the entire situation, and yells, 'Wrong jungle!' But how do the busy, efficient producers and managers often respond? 'Shut up! We’re making progress.'"
     },
     {
       author: "Mark Zuckerberg",
@@ -328,7 +328,7 @@ quotes = [
         body: "We are more often frightened than hurt; and we suffer more from imagination than from reality."
     },
     {
-        author: "Stephen R. Covey",
+        author: "Stephen Covey",
         body: "Habit: The intersection of knowledge, skill, and desire."
     },
     {
