@@ -374,6 +374,10 @@ quotes = [
     {
         author: "Bill Belichick",
         body: "To live in the past is to die in the present."
+    },
+    {
+        author: "Steve Jobs",
+        body: "It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do."
     }
 ];
 
