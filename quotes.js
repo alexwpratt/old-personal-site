@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "C.K. Prahalad",
+        body: "How smart you are is defined by how clearly you can see the intellect of others."
+    },
+    {
         author: "JR Smith",
         body: "It's kind of boring when you take open shots."
     },
