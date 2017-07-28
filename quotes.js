@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "Hugo Black",
+        body: "Just remember, we are all boys grown tall."
+    },
+    {
         author: "C.K. Prahalad",
         body: "How smart you are is defined by how clearly you can see the intellect of others."
     },
