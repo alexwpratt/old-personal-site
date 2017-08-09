@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "Dr. Travis Bradberry",
+        body: "Go where you are celebrated, not just tolerated."
+    },
+    {
         author: "Hugo Black",
         body: "Just remember, we are all boys grown tall."
     },
