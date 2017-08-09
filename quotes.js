@@ -381,7 +381,7 @@ quotes = [
     },
     {
         author: "Bill Belichick",
-        body: "Talent sets teh floor, character sets the ceiling."
+        body: "Talent sets the floor, character sets the ceiling."
     },
     {
         author: "Bill Belichick",
