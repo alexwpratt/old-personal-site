@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "Gordon B. Hinckley",
+        body: "I have discovered that life is not a series of great heroic acts. Life at its best is a matter of consistent goodness and decency, doing without fanfare that which needed to be done when it needed to be done. I have observed that it is not the geniuses that make the difference in this world. I have observed that the work of the world is done largely by men and women of ordinary talent who have worked in an extraordinary manner."
+    },
+    {
         author: "Dr. Travis Bradberry",
         body: "Go where you are celebrated, not just tolerated."
     },
