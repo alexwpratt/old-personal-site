@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<title>Alex Wilcken Pratt</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="LogoBackground.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<style>
+    body,
+    h1 {
+        font-family: "Raleway", sans-serif;
+    }
+
+    body,
+    h1,
+    p,
+    i,
+    div,
+    footer {
+        color: grey;
+    }
+
+    a:hover,
+    a:focus,
+    a:active,
+    a:visited,
+    a:link {
+        text-decoration: none;
+    }
+
+    body,
+    html {
+        height: 100%
+    }
+
+    .bgimg {
+        background-image: url('harbor.jpg');
+        min-height: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+</style>
+
+<script src="quotes.js"></script>
+
+<head>
+</head>
+
+<body onload="load()">
+    <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+        <div class="w3-display-topleft w3-padding-large w3-xlarge">
+            <a href="/">AWP</a>
+        </div>
+        <div class="w3-display-middle w3-center">
+            <div class="w3-panel w3-light-grey">
+                <p class="w3-medium w3-serif">
+                    <i id="quote_body"></i>
+                </p>
+                <p id="quote_author"></p>
+            </div>
+        </div>
+    </div>
+</body>
+
+
+</html>
