@@ -1,6 +1,9 @@
 {
   "name": "Alex Wilcken Pratt",
   "short_name": "AWP",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
   "icons": [
     {
       "src": "icons/icon-256x256.png",
@@ -17,7 +20,5 @@
       "sizes": "180x180",
       "type": "image/png"
     }
-  ],
-  "start_url": "/index.html",
-  "display": "standalone"
+  ]
 }
