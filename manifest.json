@@ -3,7 +3,7 @@
   "short_name": "AWP",
   "display": "standalone",
   "start_url": "/",
-  "scope": "/",
+  "scope": "./",
   "icons": [
     {
       "src": "icons/icon-256x256.png",
