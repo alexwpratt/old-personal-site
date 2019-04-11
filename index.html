@@ -50,6 +50,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
   integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
 <style>
   body,
   h1 {
@@ -92,13 +93,15 @@
   }
 </style>
 
+<script src="quotes.js"></script>
+
 <head>
 </head>
 
-<body>
+<body onload="onLoad()">
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white ">
-    <div class="w3-display-topleft w3-padding-large w3-xlarge w3-hide-small">
-      AWP
+    <div class="w3-display-topleft w3-padding-large w3-large">
+      <a href="/">AWP</a>
     </div>
     <div class="w3-hide-large w3-hide-medium w3-display-topright w3-padding-large">
       <a href="https://www.linkedin.com/in/alexwilckenpratt" target="_blank">
@@ -121,41 +124,62 @@
         <i class="fab fa-google-play fa-lg w3-hover-opacity"></i>
       </a>
       &nbsp;
-      <a href="quotes.html">
+      <a onclick="showQuote()">
         <i class="fas fa-quote-left fa-lg w3-hover-opacity"></i>
       </a>
 
     </div>
     <div class="w3-display-middle w3-center">
-      <h1 class="w3-jumbo w3-animate-top">Alex Wilcken Pratt</h1>
-      <hr class="w3-border-grey w3-hide-small" style="margin:auto;width:40%">
-      <p class="w3-hide-small">
-        <a href="https://www.linkedin.com/in/alexwilckenpratt" target="_blank">
-          <i class="fab fa-linkedin-in fa-2x w3-hover-opacity"></i>
-        </a>
-        &nbsp;
-        <a href="https://twitter.com/alexwpratt" target="_blank">
-          <i class="fab fa-twitter fa-2x w3-hover-opacity"></i>
-        </a>
-        &nbsp;
-        <a href="https://itunes.apple.com/us/podcast/inconsequentialism/id1458046001" target="_blank">
-          <i class="fas fa-podcast fa-2x w3-hover-opacity"></i>
-        </a>
-        &nbsp;
-        <a href="https://open.spotify.com/show/5sMtj2KdImvKo3gnjltAx8?si=kKELPlnrQ-qnTmPiYB7sRw" target="_blank">
-          <i class="fab fa-spotify fa-2x w3-hover-opacity"></i>
-        </a>
-        &nbsp;
-        <a href="https://play.google.com/music/m/Ijadtrk6vyjlie6rzufs6wms52u?t=Inconsequentialism" target="_blank">
-          <i class="fab fa-google-play fa-2x w3-hover-opacity"></i>
-        </a>
-        &nbsp;
-        <a href="quotes.html">
-          <i class="fas fa-quote-left fa-2x w3-hover-opacity"></i>
-        </a>
-      </p>
+      <div class="links">
+        <h1 class="w3-xxxlarge w3-animate-top">Alex Wilcken Pratt</h1>
+        <hr class="w3-border-grey w3-hide-small" style="margin:auto;width:40%">
+        <p class="w3-hide-small">
+          <a href="https://www.linkedin.com/in/alexwilckenpratt" target="_blank">
+            <i class="fab fa-linkedin-in fa-2x w3-hover-opacity"></i>
+          </a>
+          &nbsp;
+          <a href="https://twitter.com/alexwpratt" target="_blank">
+            <i class="fab fa-twitter fa-2x w3-hover-opacity"></i>
+          </a>
+          &nbsp;
+          <a href="https://itunes.apple.com/us/podcast/inconsequentialism/id1458046001" target="_blank">
+            <i class="fas fa-podcast fa-2x w3-hover-opacity"></i>
+          </a>
+          &nbsp;
+          <a href="https://open.spotify.com/show/5sMtj2KdImvKo3gnjltAx8?si=kKELPlnrQ-qnTmPiYB7sRw" target="_blank">
+            <i class="fab fa-spotify fa-2x w3-hover-opacity"></i>
+          </a>
+          &nbsp;
+          <a href="https://play.google.com/music/m/Ijadtrk6vyjlie6rzufs6wms52u?t=Inconsequentialism" target="_blank">
+            <i class="fab fa-google-play fa-2x w3-hover-opacity"></i>
+          </a>
+          &nbsp;
+          <a onclick="showQuote()">
+            <i class="fas fa-quote-left fa-2x w3-hover-opacity"></i>
+          </a>
+        </p>
+      </div>
     </div>
   </div>
+
+
+  <div class="w3-modal" id="quotes">
+    <div class="w3-modal-content w3-animate-opacity">
+      <div class="w3-container">
+        <!-- <span onclick="getQuote()" class="w3-button w3-display-topleft">&infin;</span> -->
+        <span onclick="hideQuote()" class="w3-button w3-display-topright">&times;</span>
+        <br>
+        <p class="w3-medium w3-serif">
+          <i id="quote_body"></i>
+        </p>
+        <p id="quote_author"></p>
+        <footer class="w3-container">
+          <p>
+            <span onclick="getQuote()" class="w3-button w3-display-bottomright">&raquo;</span>
+          </p>
+        </footer>
+      </div>
+    </div>
 </body>
 
 

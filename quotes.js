@@ -425,7 +425,23 @@ quotes = [
     }
 ];
 
-function load() {
+function onLoad() {
+    var modal = document.getElementById('quotes');
+    window.onclick = function (event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+}
+
+function showQuote() {
+    getQuote();
+    document.getElementById('quotes').style.display = 'block';
+}
+function hideQuote() {
+    document.getElementById('quotes').style.display = 'none';
+}
+function getQuote() {
     let randomNumber = Math.floor((Math.random() * quotes.length));
     document.getElementById("quote_author").innerHTML = quotes[randomNumber].author;
     document.getElementById("quote_body").innerHTML = quotes[randomNumber].body;
