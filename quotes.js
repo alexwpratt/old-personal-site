@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "Some people are born on third base and go through life thinking they hit a triple.",
+        body: "Unknown"
+    },
+    {
         author: "Vince Lombardi",
         body: "The measure of who we are is what we do with what we have."
     },
