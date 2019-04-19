@@ -1,5 +1,17 @@
 quotes = [
     {
+        author: "Do not yearn to be popular; be equisite. Do not desire to be famous; be loved. Do not take pride in being expected; be palpable, unmistakable.",
+        body: "C. JoyBell C."
+    },
+    {
+        author: "The whole problem with the world is that fools and fanatics are always so certain of themselves, but wiser people so full of doubts.",
+        body: "Bertrand Russell"
+    },
+    {
+        author: "Nature, which gave us two eyes to see and two ears to hear, has given us but one tongue to speak.",
+        body: "Jonathan Swift"
+    },
+    {
         author: "Some people are born on third base and go through life thinking they hit a triple.",
         body: "Unknown"
     },
@@ -253,7 +265,7 @@ quotes = [
     },
     {
         author: "Fred Brooks",
-        body: "Nine people can't make a baby in a month. [regarding the addition of more programmers to get a project completed faster]."
+        body: "Nine people can't make a baby in a month."
     },
     {
         author: "Robert A. Heinlein",
