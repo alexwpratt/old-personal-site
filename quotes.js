@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "If I cannot do great things, I can do small things in a great way.",
+        body: "Martin Luther King Jr."
+    },
+    {
         author: "Do not yearn to be popular; be equisite. Do not desire to be famous; be loved. Do not take pride in being expected; be palpable, unmistakable.",
         body: "C. JoyBell C."
     },
