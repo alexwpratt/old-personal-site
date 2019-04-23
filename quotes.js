@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "Never talk down to the audience.",
+        body: "Rick Rubin"
+    },
+    {
         author: "If I cannot do great things, I can do small things in a great way.",
         body: "Martin Luther King Jr."
     },
