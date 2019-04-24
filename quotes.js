@@ -1,5 +1,9 @@
 quotes = [
     {
+        author: "It is the unemotional, reserved, calm, detached warrior who wins, not the hothead seeking vengeance and not the ambitious seeker of fortune.",
+        body: "Sun Tzu"
+    },
+    {
         author: "Never talk down to the audience.",
         body: "Rick Rubin"
     },
