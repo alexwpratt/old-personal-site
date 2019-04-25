@@ -1,5 +1,29 @@
 quotes = [
     {
+        author: "Good, as it ripens, becomes continually more different not only from evil but from other good.",
+        body: "C.S. Lewis"
+    },
+    {
+        author: "The ugliest things in human nature are perversions of good and innocent things.",
+        body: "C.S. Lewis"
+    },
+    {
+        author: "In principle, great clarity. In practice, great charity.",
+        body: "Chieko Okazaki"
+    },
+    {
+        author: "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+        body: "Ernest Hemingway"
+    },
+    {
+        author: "Failure is simple the opportunity to begin again, this time more inteliigently.",
+        body: "Henry Ford"
+    },
+    {
+        author: "Nothing in this world is good or bad, but thinking makes it so.",
+        body: "William Shakespeare"
+    },
+    {
         author: "It is the unemotional, reserved, calm, detached warrior who wins, not the hothead seeking vengeance and not the ambitious seeker of fortune.",
         body: "Sun Tzu"
     },
