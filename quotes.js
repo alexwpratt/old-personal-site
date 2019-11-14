@@ -1,5 +1,9 @@
 quotes = [
 	{
+		author: "Rumi",
+		body: "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+	},
+	{
 		author: "Mark Madsen",
 		body:
 			"I think what most people consider 'life problems' are really just side effects of not having anything more important to worry about."
@@ -9,7 +13,6 @@ quotes = [
 		body:
 			"It is the mark of an educated mind to be able to entertain a thought without accepting it."
 	},
-
 	{
 		author: "John Quincy Adams",
 		body:
@@ -19,7 +22,6 @@ quotes = [
 		author: "John Dewey",
 		body: "A problem well put is half-solved."
 	},
-
 	{
 		author: "JR Smith",
 		body:
@@ -630,7 +632,7 @@ quotes = [
 
 function onLoad() {
 	var modal = document.getElementById("quotes");
-	window.onclick = function(event) {
+	window.onclick = function (event) {
 		if (event.target == modal) {
 			modal.style.display = "none";
 		}
