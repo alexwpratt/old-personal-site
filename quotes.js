@@ -1,5 +1,10 @@
 quotes = [
   {
+    author: "Grace Lee Boggs",
+    body:
+      "You cannot change any society unless you take responsibility for it, unless you see yourself as belonging to it and responsible for changing it.",
+  },
+  {
     author: "Glen Miller",
     body: "Freedom is not the absence of responsibility.",
   },
