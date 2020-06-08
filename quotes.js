@@ -1,5 +1,10 @@
 quotes = [
   {
+    author: "Malcolm Gladwell",
+    body:
+      "Good writing does not succeed or fail on the strength of its ability to persuade... It succeeds or fails on the strength of its ability to engage you, to make you think, to give you a glimpse into someone else’s head — even if in the end you conclude that someone else’s head is not a place you’d really like to be.",
+  },
+  {
     author: "Desmond Tutu",
     body:
       "If you are neutral in situations of injustice, you have chosen the side of the oppressor.",
