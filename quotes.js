@@ -1,5 +1,24 @@
 quotes = [
   {
+    author: "George Bernard Shaw",
+    body:
+      "The single biggest problem with communication is the illusion that it has taken place.",
+  },
+  {
+    author: "R.A. Salvatore",
+    body:
+      "It is better, I think, to grab at the stars than to sit flustered because you know you cannot reach them... At least he who reaches will get a good stretch, a good view, and perhaps even a low-hanging apple for his efforts.",
+  },
+  {
+    author: "Les Brown",
+    body:
+      "Most people fail in life not because they aim too high and miss, but because they aim too low and hit",
+  },
+  {
+    author: "Bono",
+    body: "You can never get enough of what you don't really need.",
+  },
+  {
     author: "Malcolm Gladwell",
     body:
       "Good writing does not succeed or fail on the strength of its ability to persuade... It succeeds or fails on the strength of its ability to engage you, to make you think, to give you a glimpse into someone else’s head — even if in the end you conclude that someone else’s head is not a place you’d really like to be.",
