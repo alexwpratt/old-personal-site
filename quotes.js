@@ -1,5 +1,15 @@
 quotes = [
   {
+    author: "Desmond Tutu",
+    body:
+      "If you are neutral in situations of injustice, you have chosen the side of the oppressor.",
+  },
+  {
+    author: "Martin Luther King, Jr.",
+    body:
+      "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+  },
+  {
     author: "Grace Lee Boggs",
     body:
       "You cannot change any society unless you take responsibility for it, unless you see yourself as belonging to it and responsible for changing it.",
