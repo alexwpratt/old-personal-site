@@ -651,11 +651,6 @@ quotes = [
       "It doesn't make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do.",
   },
   {
-    author: "Potter Stewart",
-    body:
-      "Ethics is knowing the difference between what you have a right to do and what is right to do.",
-  },
-  {
     author: "Epictetus",
     body:
       "Men are disturbed, not by things, but by the principles and notions which they form concerning things.",
